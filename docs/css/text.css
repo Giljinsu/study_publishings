@@ -1,0 +1,14 @@
+* {
+    border: 0px solid gray;
+    font-family: 'Nanum Pen Script', cursive;
+    /* cursive는 nanum pen 안되면 대신하는것 */
+}
+
+.text-align {
+	text-align: center;
+    /* width: 50%; */
+    }
+
+.text-decoration {
+    text-decoration: none;
+}
