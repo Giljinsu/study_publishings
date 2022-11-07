@@ -1,0 +1,18 @@
+* {
+    margin-bottom: 10px;
+}
+
+.Red-Border {
+    border-style: solid;
+    border-color: rgba(255, 0, 0, 0.75);
+}
+
+.Green-Border {
+    border-style: solid;
+    border-color: rgba(0, 255, 0, 0.5);
+}
+
+.Blue-Border {
+    border-style: dotted;
+    border-color: rgba(0, 0, 255, 0.25);
+}
