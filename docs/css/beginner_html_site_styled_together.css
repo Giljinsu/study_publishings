@@ -1,0 +1,28 @@
+* {
+    border: 1px dotted gray;
+}
+
+.background {
+    background-color: rgba(0, 83, 159, 1);
+    margin: 0px;
+}
+
+.outline {
+    border: 2px solid black;
+    margin: 0px 10% 0px 10%;
+    background-color: rgba(255, 149, 0, 1);
+
+    padding: 10px;
+    /* 두개만 써넣으면 위아래만 뜻함 한개만 들억가면 전체 */
+}
+
+.text-align {
+ text-align: center;   
+}
+
+.text-weight {
+    font-size: 40px;
+    font-weight: 900;
+    color: rgba(0, 83, 159, 1);
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.75);
+}

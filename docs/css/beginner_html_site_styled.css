@@ -3,12 +3,13 @@
 }
 
 .text_color_blue {
-    color: cornflowerblue;
+    color: rgba(0, 83, 159, 1);
     text-shadow: 3px 3px rgba(0, 0, 0, 0.5);
 }
 
 body {
-    background-color: cornflowerblue;
+    background-color: rgba(0, 83, 159, 1);
+    margin: 0px;
 }
 
 .div_body {
