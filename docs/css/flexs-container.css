@@ -1,0 +1,40 @@
+* {
+    border: 1px dotted gray;
+}
+
+.flex-container {
+    background-color: skyblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-container > div {
+    font-size: 30px;
+    width: 50px;
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+}
+
+.flex-container-column {
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.flex-container-column > div {
+    font-size: 30px;
+    width: 50px;
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+}
+
+.ul-flat {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+}
