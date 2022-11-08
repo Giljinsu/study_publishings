@@ -10,7 +10,7 @@
 }
 
 .ul-inline-block {
-    display: inline-block;
+    display: block;
     background-color: yellow;
 }
 
