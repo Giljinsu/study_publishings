@@ -1,0 +1,22 @@
+/* * {
+    border: 1px dotted gray;
+    font-size: 10px;
+} */
+
+.width_30 {
+    size: 30;
+}
+
+.button_end {
+    margin-top: 20px;
+    padding-left: 100px;
+}
+
+.content-color {
+    background-color: rgb(255, 254, 224);
+}
+
+.color {
+    background-color: rgb(255, 160, 122);
+    color: white;
+}
