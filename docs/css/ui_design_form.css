@@ -3,10 +3,6 @@
     font-size: 10px;
 } */
 
-.width_30 {
-    size: 30;
-}
-
 .button_end {
     margin-top: 20px;
     padding-left: 100px;
@@ -20,3 +16,4 @@
     background-color: rgb(255, 160, 122);
     color: white;
 }
+
